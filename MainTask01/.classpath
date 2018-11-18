@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="testing"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="lib" path="D:/Java/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Java/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/Java/log4j-1.2.17.jar" sourcepath="C:/Users/Headbrothers/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java/apache-commons-lang.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
